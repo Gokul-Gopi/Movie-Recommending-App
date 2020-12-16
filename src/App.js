@@ -3,33 +3,108 @@ import "./styles.css";
 
 let dataBase = {
   Comedy: [
-    { name: "Ace Ventura", imdb: "8.5", src: "/Images/aceVentura.jpg" },
-    { name: "The Mask", imdb: "8.9", src: "/Images/themask.jpg" },
-    { name: "Shazam", imdb: "8.3", src: "/Images/shazam.jpg" }
+    {
+      name: "Ace Ventura",
+      imdb: "8.5",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862920049688597/aceVentura.jpg"
+    },
+    {
+      name: "The Mask",
+      imdb: "8.9",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862968006967356/themask.jpg"
+    },
+    {
+      name: "Shazam",
+      imdb: "8.3",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862965503623168/shazam.jpg"
+    }
   ],
 
   Horror: [
-    { name: "The Conjuring", imdb: "8.4", src: "/Images/conjuring.jpg" },
-    { name: "IT", imdb: "4.5", src: "/Images/it.jpg" },
-    { name: "The Grudge", imdb: "7.5", src: "/Images/grudge.jpg" }
+    {
+      name: "The Conjuring",
+      imdb: "8.4",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862936663720026/conjuring.jpg"
+    },
+    {
+      name: "IT",
+      imdb: "4.5",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862934432350208/it.jpg"
+    },
+    {
+      name: "The Grudge",
+      imdb: "7.5",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862933773058098/grudge.jpg"
+    }
   ],
 
   SciFi: [
-    { name: "Inception", imdb: "8.6", src: "/Images/inception.jpg" },
-    { name: "Interstellar", imdb: "8.9", src: "/Images/interstellar.jpg" },
-    { name: "Arrival", imdb: "7.9", src: "/Images/arrival.jpg" }
+    {
+      name: "Inception",
+      imdb: "8.6",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862936001150977/inception.jpg"
+    },
+    {
+      name: "Interstellar",
+      imdb: "8.9",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862932469022750/interstellar.jpg"
+    },
+    {
+      name: "Arrival",
+      imdb: "7.9",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862921014771712/arrival.jpg"
+    }
   ],
 
   Romance: [
-    { name: "La La Land", imdb: "8.6", src: "/Images/lalaland.jpg" },
-    { name: "Me Before you", imdb: "7.8", src: "/Images/mebeforeyou.jpg" },
-    { name: "Titanic", imdb: "8.8", src: "/Images/titanic.jpg" }
+    {
+      name: "La La Land",
+      imdb: "8.6",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862939100086282/lalaland.jpg"
+    },
+    {
+      name: "Me Before you",
+      imdb: "7.8",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862965650686022/mebeforeyou.jpg"
+    },
+    {
+      name: "Titanic",
+      imdb: "8.8",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862965885567036/titanic.jpg"
+    }
   ],
 
   Animation: [
-    { name: "Big Hero 6", imdb: "8.6", src: "/Images/bighero6.jpg" },
-    { name: "Toy story 4", imdb: "7.9", src: "/Images/toystory4.jpeg" },
-    { name: "Cars", imdb: "8.7", src: "/Images/cars.jpg" }
+    {
+      name: "Big Hero 6",
+      imdb: "8.6",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862923081515070/bighero6.jpg"
+    },
+    {
+      name: "Toy story 4",
+      imdb: "7.9",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788863425999798272/toystory4.jpeg"
+    },
+    {
+      name: "Cars",
+      imdb: "8.7",
+      src:
+        "https://cdn.discordapp.com/attachments/788862709583314948/788862927934849064/cars.jpg"
+    }
   ]
 };
 

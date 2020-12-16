@@ -1,2 +1,2 @@
-# Movie-Recommending-App
+# Movie-recommending-app
 Created with CodeSandbox

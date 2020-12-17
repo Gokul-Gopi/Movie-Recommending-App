@@ -134,7 +134,7 @@ export default function App() {
           outlineOffset: "-3px"
         }}
       >
-        <h1 style={{ textAlign: "center" }}>Movie Recommendations</h1>
+        <h1 style={{ textAlign: "center" }}>🎬Movie Recommendations</h1>
       </header>
       <h3 style={{ marginTop: "30px", marginBottom: "3px" }}>
         " I'll make him an offer he can't refuse "
